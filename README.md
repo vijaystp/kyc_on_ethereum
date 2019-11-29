@@ -6,3 +6,9 @@ As part of my blockchain learning jouney, i have been trhough many articles and 
 However, my recent step towards deep dive in my learning path ; joining IIITB PG course enriched and enhanced my learnings. I added more falvor in my cooking and made an attempt to host KYC process on Ehtereum. I am happy to see the results as i was awarded 99.4% by the institute. Ofcouse , more to come as i need to complete the course which runs for next few more months.
 
 Here i am providing a copy of problem statement, solution and the source code to share my learning and quick screen shots.
+
+The smart contract is written in solidity and deployed , executed on RemixIDE. Detail steps are in the instructions file.
+
+I also create multiple peers and added into the network in the Truffle environment. Detail steps are in the instructions file.
+
+stpvk@yahoo.com
