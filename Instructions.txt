@@ -1,9 +1,0 @@
-1. KYCContract.sol is the contract file and having multiple functions to execute the KYC for a customer. 
-
-2. Please refer to KYCContractQuickView.JPG on the contract(code) coverage
-
-3. The contract can be opened up in REMIX IDE as shown and can be deployed using the DEPLOY feature in the REMIX IDE. Please refer to DeployOnRemixIDE-KYC.jpg
-
-4. Once the contract is deployed respective functions can be execute, as a sample i have executed "addBank" , "addCustomer" and "addKYCRequest". Please refer to RemixIDE-SampleWorkingFunctions-KYC.jpg. 
-
-5. Please contact VijayaKrishna @ stpvk@yahoo.com for further questions.
