@@ -1,0 +1,21 @@
+1. First setup Geth as shown in StartingGethBeforeTruffle.jpg , on a particular network and enable rpc for the clients to communicate accordingly.
+
+2. Prepare Geth and get the blockchain ready for accepting the clients and peers to communicate as shown in ReadyGethBeforeTruffle.jpg
+
+3. In the Geth ,start mining for accepting transcctions and to let peers get the visibility of the network accordinlgy as shown in MiningInGethBeforeTruffle.jpg 
+
+4. Go ahead and set the Truffle environment for the peers to communicate , please see the attached Truffle folders and how truffle-config.js is setup to accept/communicate to development and Geth environmnets.
+
+5. Please configure migrations folder to deploy the smart contract KYCContract in the file 2_kyc_deployment.js
+
+6. please have your smart contract available in contracts folder.
+
+7. Start compiling your smart contract in truffle environment as shown in the figure TruffleCompile.jpg
+
+8. Migrate your smart contract and get communication going on with the GETH environment as shown in the figure TruffleMigratedAndConnectedToGeth.jpg
+
+9. Once smart contract is available in the network connect to Geth via truffle console to access the functions as shown in AccessingFunctionsonKYCContract.jpg
+
+10. Start executing functions of the smart contracts as shown in the figure RunningFunctionsonKYCContract.jpg
+
+11. Please contact stpvk@yahoo.com for more details.
